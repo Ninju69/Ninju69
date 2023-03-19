@@ -34,7 +34,7 @@
     </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=</Ninju>&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Ninju69&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/743317832434974811?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/743317832434974811?style=flat-square)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/743317832434974811?style=flat-square)
