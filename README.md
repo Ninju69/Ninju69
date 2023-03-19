@@ -24,7 +24,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Ninju69&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
     </a>
     <a href="https://github.com/Ninju69/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninju69&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+        <img src="./spotify_banner.png"/>
     </a>
     <a href="https://github.com/Ninju69/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Ninju69&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
