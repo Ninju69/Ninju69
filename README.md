@@ -30,7 +30,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Ninju69&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
     <a href="https://open.spotify.com/user/31rvuwmxpayp2ywbig6k4c7cy5oe?si=ASefoyxrSaGBM_QBsfawxw">
-        <img src="./spotify_banner.png"/>
+        <img src="./spotify_banner (1).png"/>
         <img width="200px"/>
     </a>
 </p>
