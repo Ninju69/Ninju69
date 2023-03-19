@@ -1,15 +1,15 @@
 
 <h1 aline="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Blacky!%22;%22Welcome+to+my+profile!%22"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Ninju!%22;%22Welcome+to+my+profile!%22"/>
  </a>
 </h1>
 - 🔭 I’m currently working on Advance Music Bot projects
 - 🌱 I’m currently learning Web Development
 <div align = "center">
 <p align="center">
-    <a href="https://blacky-dev.me/">
-        <img src="./Banner.png" />
+    <a href="https://coolblox6.cf">
+        <img src="./RankCard-1.png" />
     </a>
 <p align="centre"> 
 <a href="https://twitter.com/br_blacky"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-twitter-100.png" title="Twitter"/></a>
