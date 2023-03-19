@@ -29,7 +29,7 @@
     <a href="https://github.com/Ninju69/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Ninju69&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
-    <a href="https://open.spotify.com/user/31rvuwmxpayp2ywbig6k4c7cy5oe?si=HJWzeiANRLqwFCVNeSWSYg">
+    <a href="https://open.spotify.com/user/31rvuwmxpayp2ywbig6k4c7cy5oe?si=ASefoyxrSaGBM_QBsfawxw">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rvuwmxpayp2ywbig6k4c7cy5oe&cover_image=true&theme=novatorem&bar_color=00FF99&bar_color_cover=false"/>
     </a>
 </p>
